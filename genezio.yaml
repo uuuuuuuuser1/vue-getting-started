@@ -22,4 +22,3 @@ frontend:
     start:
       - npm install --silent
       - npm run dev --silent
-  subdomain: white-atomic-constrictor
